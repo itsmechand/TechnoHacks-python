@@ -4,22 +4,18 @@
 
 Video :
 
-#Task 2: Temperature converter
+#Task 2: To-do list
 
 Video:
 
-#Task 3: To-do list
+#task 3: Random Password Generator
 
 Video:
 
-#task 4: Random Password Generator
+#Task 4: ATM Simulator
 
 Video:
 
-#Task 5: ATM Simulator
-
-Video:
-
-#Task 6: Currency Converter
+#Task 5: Currency Converter
 
 Video:
